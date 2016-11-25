@@ -1,0 +1,4 @@
+# jemdoc: menu{MENU}{pubs.html}, nofooter
+= Publications
+
+- *Nearly Optimal Robust Matrix Completion* \n Submitted to AISTATS 2017. \[[https://arxiv.org/abs/1606.07315 ArXiv]\]
