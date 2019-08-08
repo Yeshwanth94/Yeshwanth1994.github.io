@@ -1,7 +1,7 @@
 # jemdoc: menu{MENU}{pubs.html}, nofooter
 = Publications
 
-- *Optimal Mean Estimation under Weak Moments* \n Yeshwanth Cherapanamjeri, Nilesh Tripuraneni, Peter L. Bartlett, Michael I. Jordan\n /Under Preparation/
+- *Optimal Mean Estimation under Weak Moments* \n Yeshwanth Cherapanamjeri, Nilesh Tripuraneni, Peter L. Bartlett, Michael I. Jordan\n /Under preparation/
 - *Algorithms for Heavy-Tailed Statistics: Regression, Covariance Estimation, and Beyond* \n Yeshwanth Cherapanamjeri, Samuel B. Hopkins, Tarun Kathuria, Prasad Raghavendra, Nilesh Tripuraneni\n /Under preparation/
 - *Fast Mean Estimation with Sub-Gaussian Rates* \n Yeshwanth Cherapanamjeri, Nicolas Flammarion, Peter L. Bartlett\n COLT 2019 \[[https://arxiv.org/abs/1902.01998 ArXiv]\]
 - *Testing Markov Chains without Hitting* \n Yeshwanth Cherapanamjeri, Peter L. Bartlett\n COLT 2019 \[[https://arxiv.org/abs/1902.01999 ArXiv]\]
